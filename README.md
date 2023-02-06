@@ -2,17 +2,22 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Spandhana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/spandhana-c-40346788/)](https://www.linkedin.com/in/spandhana-c-40346788/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Spandhana-green)](https://spandhana.netlify.app/)
-
-I'm
-Front End Developer 
-The crossover between design and programming has always been of interest to me. I have a wide range of skills that include design (working closely with designers), front-end development (React, Angular14, ReactJs, HTML5, CSS3, Javascript, Responsive, UX),back-end development using open source technologies (NodeJs, Python), Server Administrator(AWS, GCP, Azure),database(MongoDB,Mysql), CI/CD(Docker, kubernetes)
+  
+<div>
+  <h2>About Me</h2>
+<p>I am a Civil Engineering Graduate with a Masters's Degree in Environmental Engineering and Sanitation Science.
+                           It was during my stint at BITS Pilani, that I had developed an inclination towards coding.
+                           Though I'm from a non-IT/CS background, I have an immense interest towards learning and understanding
+                            how the Internet world works. 
+                           My current goals are to up-skill my coding, grow my network and make a career as a web developer in the days to come.</p>
+  
+                        
+<p>The crossover between design and programming has always been of interest to me. I have a wide range of skills that include design (working closely with designers), front-end development (React, Angular14, ReactJs, HTML5, CSS3, Javascript, Responsive, UX),back-end development using open source technologies (NodeJs, Python), Server Administrator(AWS, GCP, Azure),database(MongoDB,Mysql), CI/CD(Docker, kubernetes)</p>
+  </div>
 
 
 ![Visitor Count](https://profile-counter.glitch.me/spandy15/count.svg)
 
-<div>
-  <h2>My Profile </h2>
-</div>
 
 Languages and Tools:
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
