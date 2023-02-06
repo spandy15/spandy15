@@ -1,8 +1,7 @@
 ### Hi I'm Spandhana 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-Spandhana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/spandhana-c-40346788/)](https://www.linkedin.com/in/spandhana-c-40346788/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/aakash-)
+[![Website Badge](https://img.shields.io/badge/WebSite-Spandhana-green)](https://spandhana.netlify.app/)
 
 I'm
 Front End Developer 
