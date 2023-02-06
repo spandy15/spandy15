@@ -11,7 +11,7 @@ The crossover between design and programming has always been of interest to me. 
 ![Visitor Count](https://profile-counter.glitch.me/spandy15/count.svg)
 
 <div>
-  <h4>My Profile Trophy</h4>
+  <h2>My Profile </h2>
 </div>
 
 Languages and Tools:
