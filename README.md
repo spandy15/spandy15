@@ -7,7 +7,7 @@
   <h2>About Me</h2>
 <p>I am a Graduate with a Bachelors's Degree in Computer Science Engineering.It was during my graduation when i first got introduced with HTML,CSS and that has developed my inclination towards coding and designing of the web pages.</p>
                         
-<p>The crossover between design and programming has always been of interest to me. I have a wide range of skills that include design (working closely with designers), front-end development (React, Angular14, ReactJs, HTML5, CSS3, Javascript, Responsive, UX),back-end development using open source technologies (NodeJs, Python), Server Administrator(AWS, GCP),database(MongoDB,Mysql), CI/CD(Docker, kubernetes)</p>
+<p>Im a Front End Engineer with wide range of skills that include design (working closely with designers), front-end development (React, Angular14, ReactJs, HTML5, CSS3, Javascript, Responsive, UX),back-end development using open source technologies (NodeJs, Python), Server Administrator(AWS, GCP),database(MongoDB,Mysql), CI/CD(Docker, kubernetes)</p>
   </div>
 
 
