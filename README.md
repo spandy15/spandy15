@@ -5,14 +5,9 @@
   
 <div>
   <h2>About Me</h2>
-<p>I am a Civil Engineering Graduate with a Masters's Degree in Environmental Engineering and Sanitation Science.
-                           It was during my stint at BITS Pilani, that I had developed an inclination towards coding.
-                           Though I'm from a non-IT/CS background, I have an immense interest towards learning and understanding
-                            how the Internet world works. 
-                           My current goals are to up-skill my coding, grow my network and make a career as a web developer in the days to come.</p>
-  
+<p>I am a Graduate with a Bachelors's Degree in Computer Science Engineering.It was during my graduation when i first got introduced with HTML,CSS and that has developed my inclination towards coding and designing of the web pages.</p>
                         
-<p>The crossover between design and programming has always been of interest to me. I have a wide range of skills that include design (working closely with designers), front-end development (React, Angular14, ReactJs, HTML5, CSS3, Javascript, Responsive, UX),back-end development using open source technologies (NodeJs, Python), Server Administrator(AWS, GCP, Azure),database(MongoDB,Mysql), CI/CD(Docker, kubernetes)</p>
+<p>The crossover between design and programming has always been of interest to me. I have a wide range of skills that include design (working closely with designers), front-end development (React, Angular14, ReactJs, HTML5, CSS3, Javascript, Responsive, UX),back-end development using open source technologies (NodeJs, Python), Server Administrator(AWS, GCP),database(MongoDB,Mysql), CI/CD(Docker, kubernetes)</p>
   </div>
 
 
